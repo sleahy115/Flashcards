@@ -1,0 +1,32 @@
+.panel{
+  height: 500px;
+}
+
+#info-def {
+  display: none;
+}
+#java-def
+{
+  display: none;
+}
+#java-title
+{
+  display: none;
+}
+#operators-title
+{
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+}
+.clickable hover {
+  color: blue;
+}
+
+.js {
+  background-color: red;
+}
+.abc{
+  display: none;
+}
